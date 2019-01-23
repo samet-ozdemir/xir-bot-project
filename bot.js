@@ -13,7 +13,6 @@ const express = require('express');
 require('./util/eventLoader')(client);
 const path = require('path');
 const request = require('request');
-const Canvas = require('canvas');
 const snekfetch = require('snekfetch');
 const queue = new Map();
 const YouTube = require('simple-youtube-api');

@@ -15,3 +15,6 @@ Otorol Komutu Videomuz:
 https://www.youtube.com/watch?v=aQQzgRlZ69c
 
 Detaylı Bilgi vb: MeliL#7408
+
+<p>
+<a href="https://discord.gg/GkzwCgM" rel="nofollow"><img src="https://camo.githubusercontent.com/ac1fc82cee64529e906c484a740fb390ce3071a0/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f3330393032343632353638303035363332302f7769646765742e706e673f7374796c653d62616e6e657232" alt="Discord XiR BoT server" data-canonical-src="https://discordapp.com/api/guilds/509839189714665492/widget.png?style=banner2" style="max-width:100%;"></a></p>

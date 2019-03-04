@@ -1,4 +1,4 @@
-<center><b>XiR Bot Project</b></center>
+<p align="center"><b>XiR Bot Project</b></p>
 
 <p align="center">
   <a href="https://discord.gg/GkzwCgM">

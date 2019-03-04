@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discord.gg/GkzwCgM">
-<img alt="Discord" src="https://img.shields.io/discord/509839189714665492.svg?label=XiR%20BoT%20Destek%20Sunucusu&logo=https%3A%2F%2Fi.postimg.cc%2FvHKvV7Rn%2Fxirslogo.jpg&style=flat-square">
+<img alt="Discord" src="https://img.shields.io/discord/509839189714665492.svg?label=XiR%20BoT%20Destek%20Sunucusu&logo=discord&logoColor=white&style=flat-square">
   </a>
 </p>
 

@@ -5,9 +5,6 @@
 <img alt="Discord" src="https://img.shields.io/discord/509839189714665492.svg?label=XiR%20BoT%20Destek%20Sunucusu&logo=discord&logoColor=white&style=flat-square">
   </a>
 </p>
-<a href="https://discordapp.com/oauth2/authorize?client_id=509835376857186315&amp;permissions=36727872&amp;scope=bot" target="_Blank" class="nomobile">
-<img src="https://discordbots.org/api/widget/servers/509839189714665492.svg?noavatar=true" height="30px">
-</a>
 
 
 Discord Glitch Bot 7/24 Aktif - Bot Dosyaları

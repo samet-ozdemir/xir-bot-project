@@ -1,4 +1,4 @@
-<center><img src="https://i.postimg.cc/6p1LGw3M/xirbrand.png"></center>
+<p align="center"><img src="https://i.postimg.cc/6p1LGw3M/xirbrand.png"></center></p>
 
 <p align="center"><h1>XiR Bot Project</h1></p>
 

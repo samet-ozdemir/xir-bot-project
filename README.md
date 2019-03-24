@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.postimg.cc/6p1LGw3M/xirbrand.png"></center></p>
+<p align="center"><img src="https://i.postimg.cc/6p1LGw3M/xirbrand.png"></p>
 
 <p align="center"><h1>XiR Bot Project</h1></p>
 
@@ -8,8 +8,8 @@
   </a>
 </p>
 
-<img src="https://discordbots.org/api/widget/owner/509835376857186315.svg?rightcolor=D49818&righttextcolor=1a1d23">
-<img src="https://discordbots.org/api/widget/509835376857186315.svg?usernamecolor=D49818&topcolor=000000&middlecolor=1a1d23&datacolor=D49818">
+<p align="center"><img src="https://discordbots.org/api/widget/owner/509835376857186315.svg?rightcolor=D49818&righttextcolor=1a1d23"></p>
+<p align="center"><img src="https://discordbots.org/api/widget/509835376857186315.svg?usernamecolor=D49818&topcolor=000000&middlecolor=1a1d23&datacolor=D49818"></p>
 
 Discord Glitch Bot 7/24 Aktif - Bot Dosyaları
 <br>

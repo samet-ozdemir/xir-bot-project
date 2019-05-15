@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://discordbots.org/api/widget/owner/509835376857186315.svg?rightcolor=D49818&righttextcolor=1a1d23"></p>
+<p align="center"><a href="https://discordbots.org/bot/509835376857186315" target="_blank"><img src="https://discordbots.org/api/widget/owner/509835376857186315.svg?rightcolor=D49818&righttextcolor=1a1d23"></a></p>
 <p align="center"><img src="https://discordbots.org/api/widget/509835376857186315.svg?usernamecolor=D49818&topcolor=000000&middlecolor=1a1d23&datacolor=D49818"></p>
 
 Discord Glitch Bot 7/24 Aktif - Bot Dosyaları

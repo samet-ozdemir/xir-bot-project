@@ -15,7 +15,7 @@ Discord Glitch Bot 7/24 Aktif - Bot Dosyaları
 <br>
 Discord Botumuz: https://bitly.com/xirdavet
 <br>
-Discord Sunucumuz: https://bitly.com/xirsdavet
+Discord Sunucumuz: https://bitly.com/xirdcsunucu
 <br>
 Bot Website: https://xir.glitch.me
 

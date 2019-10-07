@@ -10,7 +10,7 @@ const fs = require('fs');
 const db = require('quick.db');
 const http = require('http');
 const express = require('express');
-require('./util/eventLoader')(client);
+require('./util/eventLoader.js')(client);
 const path = require('path');
 const request = require('request');
 const snekfetch = require('snekfetch');

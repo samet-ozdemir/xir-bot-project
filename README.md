@@ -22,3 +22,4 @@ Detaylı Bilgi vb: MeliL#7408
 .markdown-body {
 background: #23272A;
 }
+</style>

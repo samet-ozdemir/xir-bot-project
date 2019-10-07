@@ -2,15 +2,6 @@
 
 <p align="center"><h1>XiR Bot Project</h1></p>
 
-<p align="center">
-  <a href="https://discord.gg/GkzwCgM">
-<img alt="Discord" src="https://img.shields.io/discord/509839189714665492.svg?label=XiR%20BoT%20Destek%20Sunucusu&logo=discord&logoColor=white&style=flat-square">
-  </a>
-</p>
-
-<p align="center"><a href="https://discordbots.org/bot/509835376857186315" target="_blank"><img src="https://discordbots.org/api/widget/owner/509835376857186315.svg?rightcolor=D49818&righttextcolor=1a1d23"></a></p>
-<p align="center"><img src="https://discordbots.org/api/widget/509835376857186315.svg?usernamecolor=D49818&topcolor=000000&middlecolor=1a1d23&datacolor=D49818"></p>
-
 Discord Glitch Bot 7/24 Aktif - Bot Dosyaları
 <br>
 Discord Botumuz: https://bitly.com/xirdavet

@@ -18,3 +18,7 @@ https://www.youtube.com/watch?v=aQQzgRlZ69c
 
 Detaylı Bilgi vb: MeliL#7408
 
+<style>
+.markdown-body {
+background: #23272A;
+}
